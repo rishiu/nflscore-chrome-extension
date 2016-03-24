@@ -1,0 +1,15 @@
+button{
+  background-color: #000000;
+  color: white;
+  border-bottom: none;
+}
+div#nav{
+  display: inline;
+}
+table{
+  border:solid;
+}
+p{
+  opacity: 0;
+}
+  
